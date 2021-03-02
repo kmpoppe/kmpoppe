@@ -9,9 +9,9 @@ I've long since wanted a 'Welcome page' for this, because the 'about me' text is
 
 I've spent way too much time, polishing my [OpenStreetMap-Wiki-Page](https://wiki.openstreetmap.org/User:Kmpoppe), with every information about me, that's not directly programming-related.
 
-### twofactorauth.org
+### 2fa.directory
 
-Making the internet more secure, one website at a time - https://twofactorauth.org aims to list sites that do support 2-factor-authentication to prevent account takeovers.
+Making the internet more secure, one website at a time - https://2fa.directory aims to list sites that do support 2-factor-authentication to prevent account takeovers.
 * [TwoFactorAuth](https://github.com//2factorauth/twofactorauth)
 
 ### OpenStreetMap
