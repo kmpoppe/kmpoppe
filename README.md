@@ -5,9 +5,7 @@
 
 Welcome to my GitHub profile.
 
-I've long since wanted a 'Welcome page' for this, because the 'about me' text is way too sort, isn't it?
-
-I've spent way too much time, polishing my [OpenStreetMap-Wiki-Page](https://wiki.openstreetmap.org/User:Kmpoppe), with every information about me, that's not directly programming-related.
+I've spent way too much time polishing my [OpenStreetMap-Wiki-Page](https://wiki.openstreetmap.org/User:Kmpoppe), with every information about me, that's not directly programming-related - so head over there if you want to learn more about me.
 
 ### 2fa.directory
 
@@ -16,7 +14,7 @@ Making the internet more secure, one website at a time - https://2fa.directory a
 
 ### OpenStreetMap
 
-I manage the GitHub organization [OSM-de](https://github.com/osm-de). It's there to gather the developers of the [OpenStreetMap Telegram Group](https://t.me/OSM_de).
+I manage the GitHub organization [OSM-de](https://github.com/osm-de). It's there to gather the developers of the [OpenStreetMap D-A-CH Telegram Group](https://t.me/OSM_de).
 
 This is what I sprung from my own creativity:
 
@@ -30,10 +28,11 @@ This is what I sprung from my own creativity:
 * [WebToOSMOH](https://github.com/OSM-de/WebToOSMOH) allows you to paste (almost) any website content that then figures out `opening_hours`.
 * [NotesFeed](https://github.com/OSM-de/NotesFeed) creates a RSS-feed of the Notes that you have contributed to.
 
-#### Contributions to other projects
+#### Contributions to other OSM-projects
 
 * [Mapswipe](https://github.com/mapswipe/mapswipe) helps the Missing Maps project checking for noteworthy areas in remote locations.
-
+* [StreetComplete](https://github.com/streetcomplete/StreetComplete) - an Android app to work on mapping tasks while you're out and about.
+* [OSM Community Index](https://github.com/osmlab/osm-community-index) - displaying local OSM communities on a [world map](https://openstreetmap.community)
 <!--
 **kmpoppe/kmpoppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
