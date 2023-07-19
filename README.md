@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Mastodon](https://img.shields.io/mastodon/follow/109032474702038931?domain=https%3A%2F%2Fnerdculture.de&style=for-the-badge&logo=mastodon)
+](https://nerdculture.de/@kmpoppe)
 [![Twitter](https://img.shields.io/badge/Twitter-@kmpoppe-1DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/kmpoppe)
 [![Custom badge](https://img.shields.io/static/v1?label=TELEGRAM&message=%40kmpoppe&color=0088ff&logo=telegram&style=for-the-badge)](https://t.me/kmpoppe)
 
@@ -16,7 +18,7 @@ Making the internet more secure, one website at a time - https://2fa.directory a
 
 I manage the GitHub organization [OSM-de](https://github.com/osm-de). It's there to gather the developers of the [OpenStreetMap D-A-CH Telegram Group](https://t.me/OSM_de).
 
-This is what I sprung from my own creativity:
+Things I would love you to give a try, should you need them:
 
 #### JOSM Plugins
 
@@ -26,7 +28,7 @@ This is what I sprung from my own creativity:
 #### Other useful stuff
 
 * [WebToOSMOH](https://github.com/OSM-de/WebToOSMOH) allows you to paste (almost) any website content that then figures out `opening_hours`.
-* [NotesFeed](https://github.com/OSM-de/NotesFeed) creates a RSS-feed of the Notes that you have contributed to.
+* [osm.org Greasemonkey]([https://github.com/OSM-de/](https://github.com/OSM-de/osm-org-greasemonkey)) will add loads of useful links when you're using openstreetmap.org in a browser that has Greasemonkey (Firefox) or Tampermonkey (Chrome) installed.
 
 #### Contributions to other OSM-projects
 
