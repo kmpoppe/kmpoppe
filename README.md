@@ -11,7 +11,7 @@ I've spent way too much time polishing my [OpenStreetMap-Wiki-Page](https://wiki
 ### 2fa.directory
 
 Making the internet more secure, one website at a time - https://2fa.directory aims to list sites that do support 2-factor-authentication to prevent account takeovers.
-* [TwoFactorAuth](https://github.com//2factorauth/twofactorauth)
+* [TwoFactorAuth](https://github.com/2factorauth/twofactorauth)
 
 ### OpenStreetMap
 
