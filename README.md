@@ -2,7 +2,6 @@
 
 [![Mastodon](https://img.shields.io/mastodon/follow/109032474702038931?domain=https%3A%2F%2Fnerdculture.de&style=for-the-badge&logo=mastodon)
 ](https://nerdculture.de/@kmpoppe)
-[![Twitter](https://img.shields.io/badge/Twitter-@kmpoppe-1DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/kmpoppe)
 [![Custom badge](https://img.shields.io/static/v1?label=TELEGRAM&message=%40kmpoppe&color=0088ff&logo=telegram&style=for-the-badge)](https://t.me/kmpoppe)
 
 Welcome to my GitHub profile.
