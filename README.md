@@ -4,7 +4,7 @@
 ](https://nerdculture.de/@kmpoppe)
 [![Custom badge](https://img.shields.io/static/v1?label=TELEGRAM&message=%40kmpoppe&color=0088ff&logo=telegram&style=for-the-badge)](https://t.me/kmpoppe)
 
-Welcome to my GitHub profile.
+The name's Kai (he/him), welcome to my GitHub profile.
 
 I've spent way too much time polishing my [OpenStreetMap-Wiki-Page](https://wiki.openstreetmap.org/User:Kmpoppe), with every information about me, that's not directly programming-related - so head over there if you want to learn more about me.
 
@@ -34,17 +34,3 @@ Things I would love you to give a try, should you need them:
 * [Mapswipe](https://github.com/mapswipe/mapswipe) helps the Missing Maps project checking for noteworthy areas in remote locations.
 * [StreetComplete](https://github.com/streetcomplete/StreetComplete) - an Android app to work on mapping tasks while you're out and about.
 * [OSM Community Index](https://github.com/osmlab/osm-community-index) - displaying local OSM communities on a [world map](https://openstreetmap.community)
-<!--
-**kmpoppe/kmpoppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
